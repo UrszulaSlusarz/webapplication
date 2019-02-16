@@ -1,0 +1,41 @@
+{
+  "generator-jhipster": {
+    "applicationType": "monolith",
+    "gitCompany": "",
+    "baseName": "aghpracainzynierska",
+    "packageName": "urszulaslusarz",
+    "packageFolder": "urszulaslusarz",
+    "serverPort": 8080,
+    "serviceDiscoveryType": false,
+    "authenticationType": "jwt",
+    "uaaBaseName": "../uaa",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": false,
+    "websocket": "spring-websocket",
+    "databaseType": "sql",
+    "devDatabaseType": "mysql",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "enableSwaggerCodegen": false,
+    "messageBroker": false,
+    "buildTool": "maven",
+    "useSass": false,
+    "clientPackageManager": "npm",
+    "testFrameworks": [],
+    "enableTranslation": false,
+    "nativeLanguage": "en",
+    "languages": [
+      "en"
+    ],
+    "clientFramework": "angularX",
+    "jhiPrefix": "jhi",
+    "jhipsterVersion": "5.8.1",
+    "jwtSecretKey": "Yjc1YzQzYTQ2ZDgwOWZhMTkxNTc1M2E4ZWQ1YTYwZGU0Y2Y2YzM2NjgwNDFhYjVjMjY2Nzc5MzFlMTkzYmRkMDkyMThkNTY5MjI0NDYzN2NjMDk3OTFhYjM4MTE3M2RhMGJiYTI5MWY5MTM1YjViMjM1OWVjM2VmMWJiZWM4YTM=",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": []
+  },
+  "git-provider": "GitHub",
+  "git-company": "UrszulaSlusarz",
+  "repository-name": "webapplication"
+}
